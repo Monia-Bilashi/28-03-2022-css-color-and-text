@@ -1,0 +1,5 @@
+color Property:
+1. color name
+2. RGB 
+3.Hex
+4.Hsl 

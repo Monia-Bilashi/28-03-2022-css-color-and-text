@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: yellow;
+    text-align: center;
+    color: blue;
+}
+
+.align {
+    background: teal;
+}
+
+.left {
+    color: white;
+    text-align: left;
+    text-decoration: underline;
+    letter-spacing: 15px;
+}
+
+.right {
+    color: red;
+    text-decoration: overline;
+    text-transform: capitalize;
+    line-height: 30px;
+    text-align: right;
+}
+
+.center {
+    color: rgb(116, 8, 110);
+    text-decoration: line-through;
+    text-transform: uppercase;
+    word-spacing: 20px;
+    text-align: center;
+}
+
+.justify {
+    color: #ffffff;
+    background-color: blue;
+    text-align: justify;
+}
+
+a {
+    color: #ffffff;
+    /* background-color: blue; */
+    text-decoration: none;
+    text-align: justify;
+    text-shadow: 2px 2px blue;
+}
+
+
+/* text-align
+text-decoration 
+text-transfrom 
+text-spacing 
+text-shadow   */
